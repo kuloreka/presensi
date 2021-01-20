@@ -38,7 +38,7 @@ $siswa = $database->select("siswa", [
         <table class="table table-striped">
             <thead class="thead-dark">
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">No. Absen</th>
                     <th scope="col">Nama</th>
                     <th scope="col">Kode RFID</th>
                 </tr>

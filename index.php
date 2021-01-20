@@ -13,7 +13,7 @@ require 'common.php';
     <body>
 
     <nav class="navbar navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Sistem Presensi</a>
+        <a class="navbar-brand" href="#">Presensi Siswa</a>
         <ul class="nav nav-pills">
             <li class="nav-item">
                 <a href="presensi.php" class="nav-link">Lihat Data Presensi</a>
@@ -27,14 +27,20 @@ require 'common.php';
         <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
             <h1 class="mb-3">Selamat Datang,</h1>
             <p class="lead">
-                To your <a href="https://pimylifeup.com">Pi My Life Up</a> RFID Attendance System Dashboard.
+                Judul :Sistem Monitoring Presensi Siswa Menggunakan RFID dan Raspberry Berbasis Website
+            </p>
+            <p class="lead">
+                Oleh  : Hari Reka Dwinata
+            </p>
+            <p class="lead">
+                NIM   : 310016019
             </p>
             <div class="row mx-n2">
                 <div class="col-md px-2">
-                    <a href="siswa.php" class="btn btn-lg btn-outline-secondary w-100 mb-3">Users</a>
+                    <a href="siswa.php" class="btn btn-lg btn-outline-secondary w-100 mb-3">Data Siswa</a>
                 </div>
                 <div class="col-md px-2">
-                    <a href="presensi.php" class="btn btn-lg btn-outline-secondary w-100 mb-3" >Attendance</a>
+                    <a href="presensi.php" class="btn btn-lg btn-outline-secondary w-100 mb-3" >Data Presensi</a>
                 </div>
             </div>
         </div>
