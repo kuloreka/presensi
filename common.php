@@ -11,6 +11,6 @@ $database = new Medoo([
     'database_type' => 'mysql',
     'database_name' => 'sistempresensi',
     'server'        => 'localhost',
-    'username'      => 'atteadmin',
+    'username'      => 'adminpresensi',
     'password'      => 'kuloreka'
 ]);
