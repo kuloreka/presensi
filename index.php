@@ -25,15 +25,12 @@ require 'common.php';
     </nav>
     <div class="container">
         <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
-            <h1 class="mb-3">Selamat Datang,</h1>
+            <h1 class="mb-3">Selamat Datang!</h1>
             <p class="lead">
-                Judul :Sistem Monitoring Presensi Siswa Menggunakan RFID dan Raspberry Berbasis Website
+                Sistem Monitoring Presensi Siswa Menggunakan RFID dan Raspberry Berbasis Website
             </p>
             <p class="lead">
-                Oleh  : Hari Reka Dwinata
-            </p>
-            <p class="lead">
-                NIM   : 310016019
+                Oleh  : Hari Reka Dwinata  ||  310016019
             </p>
             <div class="row mx-n2">
                 <div class="col-md px-2">
